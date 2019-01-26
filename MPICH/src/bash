@@ -1,0 +1,1 @@
+mpic++ dataLoader.cpp main.cpp NeuronLayer.cpp NetWork.cpp -o run -lm
